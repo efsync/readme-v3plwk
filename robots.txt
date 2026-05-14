@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://efsync.github.io/readme-v3plwk/sitemap.xml
